@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345292465262",
+    "project_id": "fhir-login",
+    "storage_bucket": "fhir-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345292465262:android:aa943be2f7756eb41f327f",
+        "android_client_info": {
+          "package_name": "com.fhirdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345292465262-ndpjjgkk60r8j8vqllm6957kpobpa2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD29Du-xVQX0thyTuVVAnSLZdRQvUn04c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345292465262-ndpjjgkk60r8j8vqllm6957kpobpa2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
