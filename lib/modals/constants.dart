@@ -11,8 +11,8 @@ class Constants {
   }
 
   static final memberidtest = TextEditingController();
-  static String fhirapilink =
-      'http://ec2-3-138-255-176.us-east-2.compute.amazonaws.com:8080/hapi-fhir-jpaserver/fhir/';
+  static String fhirapilink ='';
+      
   static final book_app_name = TextEditingController();
   static final book_app_PaId = TextEditingController();
   static final email = TextEditingController();
